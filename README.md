@@ -25,3 +25,9 @@ East Coast Insurance Company database structure consists of five tables claims_f
     insured_dim: Information about the insured individual.
     incident_dim: Details about the incident.
     vehicle_dim: Information about the vehicle involved in the claim.
+
+
+# Executive Summary
+# Insights and Deep Dive
+# Recommendations
+
