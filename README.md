@@ -2,7 +2,7 @@
 
 East Coast Insurance Company is a fictional property and casualty insurance company that underwrites insurance primarily in East coast of the United States.
 
-The company has claims data for the first three months of the year and the director of claims has requested that we create a visual dashboard for all the claims data we have received within the first quarter of the year. This dashboard will accessed by multiple stakeholders and users within the company and will be replacing the static reports.
+East Coast Insurance Company has claims data for the first three months of the year and the director of claims has requested that we create a visual dashboard for all the claims data we have received. This dashboard will accessed by multiple stakeholders and users within the company including claims directors, claims managers and unit managers in specific regions. The visual dashboard will be used to replace older static reports.
 
 Insights and recommandations are provided in the following key areas:
 
