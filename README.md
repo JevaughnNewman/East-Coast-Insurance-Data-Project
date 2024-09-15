@@ -6,9 +6,9 @@ East Coast Insurance Company has claims data for the first three months of the y
 
 Insights and recommandations are provided in the following key areas:
 
-  ⚪
-  ⚪
-  ⚪
+  ○temp text
+  ○temp text
+  ○temp text
 
 An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed INSERT LINK
 
@@ -20,13 +20,13 @@ The Command line queries used to create the relational database in Microsoft SQL
 East Coast Insurance Company database structure consists of five tables claims_fact, policy_dim, insured_dim, incident_dim and vehicle_dim with a total row count of approximately 1000 records.
 
   Fact Table: claims_fact
-    ⚪ Measures related to claims, including amounts and fraud reporting.
+    ○ Measures related to claims, including amounts and fraud reporting.
   
   Dimension Tables:
-    ⚪ policy_dim: Policy details.
-    ⚪ insured_dim: Information about the insured individual.
-    ⚪ incident_dim: Details about the incident.
-    ⚪ vehicle_dim: Information about the vehicle involved in the claim.
+    ○ policy_dim: Policy details.
+    ○ insured_dim: Information about the insured individual.
+    ○ incident_dim: Details about the incident.
+    ○ vehicle_dim: Information about the vehicle involved in the claim.
 
 
 # Executive Summary
