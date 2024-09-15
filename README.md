@@ -1,9 +1,27 @@
-# East-Coast-Insurance-Data-Project
+# Project Background
 
-PROJECT BACKGROUND
-
-East Coast Insurance Company is a property and casualty company that underwrites insurance primarily in East coast of the United States.
+East Coast Insurance Company is a fictional property and casualty insurance company that underwrites insurance primarily in East coast of the United States.
 
 The company has claims data for the first three months of the year and the director of claims has requested that we create a visual dashboard for all the claims data we have received within the first quarter of the year. This dashboard will accessed by multiple stakeholders and users within the company and will be replacing the static reports.
 
+Insights and recommandations are provided in the following key areas:
 
+
+
+An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed INSERT LINK
+
+The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found INSERT LINK
+
+
+# Data Structure & Initial Checks
+
+East Coast Insurance Company database structure consists of five tables claims_fact, policy_dim, insured_dim, incident_dim and vehicle_dim with a total row count of approximately 1000 records.
+
+  Fact Table: claims_fact
+    Measures related to claims, including amounts and fraud reporting.
+  
+  Dimension Tables:
+    policy_dim: Policy details.
+    insured_dim: Information about the insured individual.
+    incident_dim: Details about the incident.
+    vehicle_dim: Information about the vehicle involved in the claim.
