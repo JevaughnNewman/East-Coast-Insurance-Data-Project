@@ -12,7 +12,7 @@ Insights and recommendations are provided in the following key areas:
 
 An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed INSERT LINK
 
-The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found INSERT LINK
+The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found (https://docs.google.com/document/d/1zbn_qlT9KoIrOmZKwxY815IANsueGfNZLKpobNBBSJ0/edit?usp=sharing)
 
 
 # Data Structure & Initial Checks
@@ -31,6 +31,36 @@ East Coast Insurance Company database structure consists of five tables claims_f
       insured_dim: Information about the insured individual.
       incident_dim: Details about the incident.
       vehicle_dim: Information about the vehicle involved in the claim.
+
+--Command line used to create database
+
+CREATE DATABASE insurance_claims;
+
+--Use the newly created database
+USE insurance_claimsl
+
+
+- Create Fact Table with Foreign Keys (Now referencing VARCHAR keys)
+
+CREATE TABLE claims_fact (
+    claim_id VARCHAR(36) PRIMARY KEY,  -- Changed to VARCHAR
+    policy_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
+    insured_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
+    incident_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
+    auto_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
+
+    total_claim_amount DECIMAL(10,2),
+    injury_claim DECIMAL(10,2),
+    property_claim DECIMAL(10,2),
+    vehicle_claim DECIMAL(10,2),
+    fraud_reported VARCHAR(1),
+
+    FOREIGN KEY (policy_id) REFERENCES policy_dim(policy_id) ON DELETE CASCADE,
+    FOREIGN KEY (insured_id) REFERENCES insured_dim(insured_id) ON DELETE CASCADE,
+    FOREIGN KEY (incident_id) REFERENCES incident_dim(incident_id) ON DELETE CASCADE,
+    FOREIGN KEY (auto_id) REFERENCES vehicle_dim(auto_id) ON DELETE CASCADE
+);
+
 
 
 # Executive Summary
