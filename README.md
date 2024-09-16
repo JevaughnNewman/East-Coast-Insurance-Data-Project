@@ -32,36 +32,7 @@ East Coast Insurance Company database structure consists of five tables claims_f
       incident_dim: Details about the incident.
       vehicle_dim: Information about the vehicle involved in the claim.
 
---Command line used to create database
-
-CREATE DATABASE insurance_claims;
-
---Use the newly created database
-USE insurance_claimsl
-
-
-- Create Fact Table with Foreign Keys (Now referencing VARCHAR keys)
-
-CREATE TABLE claims_fact (
-    claim_id VARCHAR(36) PRIMARY KEY,  -- Changed to VARCHAR
-    policy_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
-    insured_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
-    incident_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
-    auto_id VARCHAR(36),  -- Foreign key references VARCHAR(36)
-
-    total_claim_amount DECIMAL(10,2),
-    injury_claim DECIMAL(10,2),
-    property_claim DECIMAL(10,2),
-    vehicle_claim DECIMAL(10,2),
-    fraud_reported VARCHAR(1),
-
-    FOREIGN KEY (policy_id) REFERENCES policy_dim(policy_id) ON DELETE CASCADE,
-    FOREIGN KEY (insured_id) REFERENCES insured_dim(insured_id) ON DELETE CASCADE,
-    FOREIGN KEY (incident_id) REFERENCES incident_dim(incident_id) ON DELETE CASCADE,
-    FOREIGN KEY (auto_id) REFERENCES vehicle_dim(auto_id) ON DELETE CASCADE
-);
-
-
+      
 
 # Executive Summary
 
