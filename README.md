@@ -43,12 +43,11 @@ East Coast Insurance Company database structure consists of five tables claims_f
 
   The total number of single and multi-vehicle accidents decreased monthly from January to March. This may be attributable to overall improvements in weather conditions.
   
-  The median total claim amount for female drivers involved in an accident categorized as "Major Damage" in Q1 was approximately $64,100.00. However, in March total median claim amount for    female drivers involved in an accident categorized as "Major" increased to $72.8K, which is $8.7K above the median.
+  The average total claim amount for female drivers involved in an accident categorized as "Major Damage" in Q1 was approximately $64,070.00. However, in March total median claim amount for female drivers involved in an accident categorized as "Major" increased to $72.8K, which is $8.7K above the median.
 
-  The average age of the female drivers involved in these accidents was also lower than the median age of our female customers. The median age being "38.9". The median age for a female driver involved in an accident considered "major" in March was 31.67, which the most common education level completed being, highschool and JD.
+  The average age of the female drivers involved in these accidents was also lower than the median age of our female customers. The median age being 38.9 years old. The median age for a female driver involved in an accident considered "major" in March was 31.67, with the most common education level completed being, highschool and JD.
   
   
-
   
 # Recommendations
 
