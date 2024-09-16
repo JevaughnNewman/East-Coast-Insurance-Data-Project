@@ -6,9 +6,9 @@ East Coast Insurance Company has claims data for the first three months of the y
 
 Insights and recommendations are provided in the following key areas:
 
-  temp text
-  temp text
-  temp text
+
+
+  
 
 An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed INSERT LINK
 
