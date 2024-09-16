@@ -6,9 +6,9 @@ East Coast Insurance Company has claims data for the first three months of the y
 
 Insights and recommendations are provided in the following key areas:
 
-
-
-  
+  ○ **Claims trends for the first quarter of the year**: Claims data for the first quarter of the year for Multi-vehicle, single-vehicle, vehicle theft and parked car claims.
+  ○ **Total claim amounts**: Breakdown of the median vehicle claim amount, median injury claim amount and total claims amount for January, February and March.
+  ○
 
   ① An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed INSERT LINK
 
@@ -50,5 +50,3 @@ East Coast Insurance Company database structure consists of five tables claims_f
   
   
   
-# Recommendations
-
