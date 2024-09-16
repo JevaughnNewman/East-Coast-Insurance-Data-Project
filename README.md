@@ -12,7 +12,7 @@ Insights and recommendations are provided in the following key areas:
 
 An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed INSERT LINK
 
-The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found (https://docs.google.com/document/d/1zbn_qlT9KoIrOmZKwxY815IANsueGfNZLKpobNBBSJ0/edit?usp=sharing)
+The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found here [LINK](https://docs.google.com/document/d/1zbn_qlT9KoIrOmZKwxY815IANsueGfNZLKpobNBBSJ0/edit?usp=sharing)
 
 
 # Data Structure & Initial Checks
