@@ -24,13 +24,13 @@ East Coast Insurance Company database structure consists of five tables claims_f
 
 
   Fact Table: claims_fact
-    ○ Measures related to claims, including amounts and fraud reporting.
+      Measures related to claims, including amounts and fraud reporting.
   
   Dimension Tables:
-    ○ policy_dim: Policy details.
-    ○ insured_dim: Information about the insured individual.
-    ○ incident_dim: Details about the incident.
-    ○ vehicle_dim: Information about the vehicle involved in the claim.
+      policy_dim: Policy details.
+      insured_dim: Information about the insured individual.
+      incident_dim: Details about the incident.
+      vehicle_dim: Information about the vehicle involved in the claim.
 
 
 # Executive Summary
