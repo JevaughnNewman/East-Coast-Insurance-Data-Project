@@ -35,7 +35,8 @@ East Coast Insurance Company database structure consists of five tables claims_f
       incident_dim: Details about the incident.
       vehicle_dim: Information about the vehicle involved in the claim.
 
-      
+The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found here [LINK](https://docs.google.com/document/d/1zbn_qlT9KoIrOmZKwxY815IANsueGfNZLKpobNBBSJ0/edit?usp=sharing)
+
 
 # Executive Summary
 
