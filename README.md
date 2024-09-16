@@ -20,6 +20,7 @@ The Command line queries used to create the relational database in Microsoft SQL
 East Coast Insurance Company database structure consists of five tables claims_fact, policy_dim, insured_dim, incident_dim and vehicle_dim with a total row count of approximately 1000 records.
 
 
+<img width="844" alt="Star Schema" src="https://github.com/user-attachments/assets/4df24c28-dc26-4740-8f54-cc43624d7292">
 
 
   Fact Table: claims_fact
