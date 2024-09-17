@@ -13,7 +13,7 @@ Insights and recommendations are provided in the following key areas:
   
   - **Visualization of claimant profiles**: Claimants are visualized by their average age, sex, and education levels.
 
-  ① An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed [LINK](https://app.powerbi.com/groups/me/reports/ce664fbb-cc03-4595-b11d-08ec77309141/ReportSection?redirectedFromSignup=1,1&experience=power-bi)
+  ① An interactive PowerBI Dashboard of the First Quarter Claims data can be accessed [LINK](https://app.powerbi.com/view?r=eyJrIjoiNGY2Y2Y4NDItYzBjNC00NWU3LWEyNjgtYjYyYmIyOWQwYzNkIiwidCI6IjVhMmY2ZmQxLTU3MzctNGY3Ny04MmNkLWQ4MGNhMGNkZjZiYSJ9)
 
   ② The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found here [LINK](https://docs.google.com/document/d/1zbn_qlT9KoIrOmZKwxY815IANsueGfNZLKpobNBBSJ0/edit?usp=sharing)
 
