@@ -54,9 +54,10 @@ The Command line queries used to create the relational database in Microsoft SQL
   
  # Recommendations
 
- 1) Season Trend Monitoring
+ 1) Seasonal Accident Trends Monitoring
+      **Since accident rates increased from January to March, likely due to weather improvements, management can explore offering a seasonal safety campaign. Providing winter-driving tips and enhance communications around safe driving during           adverse weather conditions
 
- 2) Policy Pricing Adjustment
+ 3) Policy Pricing Adjustment
 
- 3) Targeted Driver Risk Mitigation for Younger Female Drives
+ 4) Targeted Driver Risk Mitigation for Younger Female Drives
   
