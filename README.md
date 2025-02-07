@@ -50,7 +50,7 @@ The Command line queries used to create the relational database in Microsoft SQL
   
   The average total claim amount for female drivers involved in an accident categorized as "Major Damage" in Q1 was approximately $64,070.00. However, in March total median claim amount for female drivers involved in an accident categorized as "Major" increased to $72.8K, which is $8.7K above the median.
 
-  The average age of the female drivers involved in these accidents was also lower than the median age of our female customers. The median age is 38.9 years old. The median age for a female driver involved in an accident considered "major" in March was 31.67, with the most common education levels completed being high school and JD.
+  The average age of the female drivers involved in these accidents was also lower than the median age of our female customers. The median age of all female drivers is 38.9 years old. The median age for a female driver involved in an accident considered "major" in March was 31.67, with the most common education levels completed being high school and JD.
   
  # Recommendations
 
