@@ -54,18 +54,18 @@ The Command line queries used to create the relational database in Microsoft SQL
   
  # Recommendations
 
- 1) Seasonal Accident Trends Monitoring:
-     - Since accident rates increased from January to March, likely due to weather improvements, management can explore offering a seasonal safety campaign. Providing winter-driving tips and enhancing communications around safe driving during           adverse weather conditions
-
- 3) Policy Pricing Adjustments:
+ 1) Policy Pricing Adjustments:
     - Given the observed trends in younger female driver claims, revisiting underwriting policies and risk models might help to capture risk profiles that may be evolving.
       
     - Management could assess whether pricing adjustment or loyalty programs for safe drivers could help encourage safer driving behaviours
       
     - **Offering telematics-based discount programs**: Offering a voluntary program where high-risk claimants, such as younger drivers or those involved in repeated accidents, can reduce premiums by agreeing to use telematics or mobile insurance applications to track driving behaviours, such as breaking, speed and acceleration.
 
- 5) Targeted Driver Risk Mitigation for Younger Female Drives
+ 2) Targeted Driver Risk Mitigation for Younger Female Drives
     - The median age for female drivers involved in major accidents in March (31.67) is significantly lower than the median age of female drivers (38.9)
       
     - It may be beneficial to develop targeted education or engagement initiatives for younger female drivers, focusing on defensive driving strategies and insurance education.
+   
+ 3) Seasonal Accident Trends Monitoring:
+     - Since accident rates increased from January to March, likely due to weather improvements, management can explore offering a seasonal safety campaign. Providing winter-driving tips and enhancing communications around safe driving during           adverse weather conditions
     
