@@ -41,7 +41,7 @@ The Command line queries used to create the relational database in Microsoft SQL
 # Executive Summary
 
 
-![East Coast Insurance Dashboard](https://github.com/user-attachments/assets/e0f27bdc-fc51-428a-b7d5-3f12b25afad7)
+![East Coast Insurance Dashboard](https://github.com/JevaughnNewman/East-Coast-Insurance-Data-Project/blob/936f2d2c9559cc9b704f25111e9be676884a144a/East%20Coast%20Insurance%20Dashboard%202025.png)
 
 
 # Insights and Deep Dive
