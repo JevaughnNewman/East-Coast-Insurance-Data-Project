@@ -61,7 +61,7 @@ The Command line queries used to create the relational database in Microsoft SQL
       
     - **Offering telematics-based discount programs**: Offering a voluntary program where high-risk claimants, such as younger drivers or those involved in repeated accidents, can reduce premiums by agreeing to use telematics or mobile insurance applications to track driving behaviours, such as breaking, speed and acceleration.
 
- 2) Targeted Driver Risk Mitigation for Younger Female Drives
+ 2) Targeted Driver Risk Mitigation for Younger Female Drives:
     - The median age for female drivers involved in major accidents in March (31.67) is significantly lower than the median age of female drivers (38.9)
       
     - It may be beneficial to develop targeted education or engagement initiatives for younger female drivers, focusing on defensive driving strategies and insurance education.
