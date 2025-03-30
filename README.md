@@ -1,7 +1,6 @@
 # Table of Contents
 
 - [Project Background](#project-background)
-     - [Power BI Dashboard](#an-interactiveP-owerBI-dashboard)
 - [Executive Summary](#executive-summary)
 - [Insights and Deep-Dive](#insights-and-deep-dive)
 - [Recommendations](#recommendations)
