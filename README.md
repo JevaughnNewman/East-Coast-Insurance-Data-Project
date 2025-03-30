@@ -1,3 +1,12 @@
+# Table of Contents
+
+- [Project Background](#project-background)
+     - [Power BI Dashboard](#An interactive PowerBI Dashboard)
+- [Executive Summary](#executive-summary)
+- [Insights and Deep-Dive](#insights-and-deep-dive)
+- [Recommendations](#recommendations)
+  
+
 # Project Background
 
 East Coast Insurance Company is a fictional property and casualty insurance company that underwrites insurance primarily in the United States East Coast.
