@@ -1,10 +1,14 @@
 # Table of Contents
 
-- [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
+- [Project Background](#project-background)
 - [Insights and Deep-Dive](#insights-and-deep-dive)
 - [Recommendations](#recommendations)
   
+# Executive Summary
+
+![East Coast Insurance Dashboard](https://github.com/JevaughnNewman/East-Coast-Insurance-Data-Project/blob/936f2d2c9559cc9b704f25111e9be676884a144a/East%20Coast%20Insurance%20Dashboard%202025.png)
+
 
 # Project Background
 
@@ -44,12 +48,6 @@ East Coast Insurance Company database structure consists of five tables claims_f
       vehicle_dim: Information about the vehicle involved in the claim.
 
 The Command line queries used to create the relational database in Microsoft SQL Server 2022 can be found here [LINK](https://docs.google.com/document/d/1zbn_qlT9KoIrOmZKwxY815IANsueGfNZLKpobNBBSJ0/edit?usp=sharing)
-
-
-# Executive Summary
-
-
-![East Coast Insurance Dashboard](https://github.com/JevaughnNewman/East-Coast-Insurance-Data-Project/blob/936f2d2c9559cc9b704f25111e9be676884a144a/East%20Coast%20Insurance%20Dashboard%202025.png)
 
 
 # Insights and Deep Dive
