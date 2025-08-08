@@ -9,6 +9,16 @@
 
 ![East Coast Insurance Dashboard](https://github.com/JevaughnNewman/East-Coast-Insurance-Data-Project/blob/936f2d2c9559cc9b704f25111e9be676884a144a/East%20Coast%20Insurance%20Dashboard%202025.png)
 
+### Overview of Findings
+
+1. **Claims Volume Trends**: The total number of single and multi-vehicle accidents decreased steadily from January through March, likely reflecting improving weather conditions.
+
+2. **Claimant Demographics**: Female drivers involved in major accidents tended to be younger (median age 31.67) than the general female driver population (median age 38.9), with common educational levels of high school and junior college.
+
+3. **Claim Cost Patterns**: The median total claim amount for female drivers involved in “Major Damage” accidents was around $64,070 in Q1, rising to $72,800 in March, exceeding the overall median by $8,700.
+
+4. **Seasonal Insights**: Accident rates correlated with seasonal weather trends, suggesting opportunities for targeted safety campaigns.
+
 
 # Project Background
 
